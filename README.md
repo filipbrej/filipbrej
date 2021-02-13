@@ -10,4 +10,5 @@ I build apps for the devices we use everyday. I'm here to make the world of tech
 - [Twitter](https://twitter.com/itsjustfil_)
 - [Instagram](https://www.instagram.com/itsjustfil/)
 - [Email](mailto:brej.filip@gmail.com)
+- [LinkedIn](https://linkedin.com/in/filipbrej/)
 - [Blog](https://hashnode.com/@filipbrej)
